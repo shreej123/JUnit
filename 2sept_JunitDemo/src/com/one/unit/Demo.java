@@ -43,5 +43,11 @@ public class Demo
 		System.out.println("m5 of afterclass");
 		
 	}
+	@Test
+	public void m6()
+	{
+		
+		System.out.println("m6 of Test");
+	}
 
 }
